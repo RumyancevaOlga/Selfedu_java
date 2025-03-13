@@ -11,6 +11,6 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // фиксирую изменения бла
+        // фиксирую изменения бла бла
     }
 }
